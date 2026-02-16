@@ -1,0 +1,39 @@
+{
+  "name": "Okabe-Ito Colorblind Safe Theme",
+  "dataColors": [
+    "#0072B2",
+    "#E69F00",
+    "#009E73",
+    "#D55E00",
+    "#CC79A7",
+    "#56B4E9",
+    "#F0E442",
+    "#000000",
+    "#999999"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#0072B2",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": "#FFFFFF",
+            "transparency": 0
+          }
+        ],
+        "titleText": [
+          {
+            "color": "#000000"
+          }
+        ],
+        "labelColor": [
+          {
+            "color": "#000000"
+          }
+        ]
+      }
+    }
+  }
+}
