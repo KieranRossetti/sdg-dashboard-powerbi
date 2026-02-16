@@ -118,10 +118,27 @@ sdg-dashboard-powerbi/
 ## How to Use
 
 1. Download the `.pbix` file from the `dashboard/` folder  
-2. Open using Power BI Desktop (latest version recommended)
+2. Open using Power BI Desktop (latest version recommended)  
 3. Interact with filters and visuals to explore the data  
 
 No additional setup required.
+
+---
+
+## Key Findings
+
+- Education completion rates show a gradual upward trend across Brazil, Colombia, and Peru between 2013 and 2023, suggesting steady improvement in human capital development.
+
+- Unemployment trends display noticeable volatility, particularly around 2020–2021, indicating labour markets are sensitive to economic disruptions.
+
+- GDP growth and unemployment exhibit a generally negative relationship, consistent with macroeconomic theory — stronger economic growth tends to coincide with lower unemployment.
+
+- Cross-country comparisons reveal differences in economic stability and labour market resilience, highlighting varying development trajectories across South American economies.
+
+- Implementing a colour-blind safe visual theme significantly improves accessibility and readability, demonstrating the importance of inclusive design in public data communication.
+
+These findings support the importance of sustained investment in education
+and labour market stability to promote long-term economic growth.
 
 ---
 
@@ -145,13 +162,7 @@ This dashboard is part of a professional data analytics portfolio showcasing:
 - Business intelligence development  
 - Public policy data analysis  
 - Visual communication of complex datasets  
-- Accessible dashboard design principles
-  
----
-
-## Key Insight
-
-The analysis highlights how education outcomes and labour market performance interact with economic growth, demonstrating measurable relationships between human capital development and macroeconomic stability across South American economies.
+- Accessible dashboard design principles  
 
 ---
 
